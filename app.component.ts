@@ -28,6 +28,7 @@ MostarOcultar(){
   // if(this.provar== false)
     //   this.mostrar = 'mostar'
       // else this.mostrar='ocultar'
+      
 
 }
 
